@@ -1,5 +1,29 @@
-# Awesome-Architecture
-Architecture&amp;Patent&amp;Paper&amp;Product&amp;Project
+# 鸿蒙HarmonyOS/紫红Fuchsia应用开发
+鸿蒙HarmonyOS=》
+
+[方舟编译器](https://code.opensource.huaweicloud.com/HarmonyOS/OpenArkCompiler/home)
+
+紫红Fuchsia =》
+
+[官网](https://fuchsia.dev/)
+
+[源码](https://fuchsia.googlesource.com/)
+
+[国内镜像](https://mirrors.hexang.com/)
+
+Dart
+
+[官网](https://dart.dev/)
+
+Flutter
+
+[官网](https://flutter.dev/)
+
+[中文官网](https://flutter-io.cn/)
+
+Material Design
+
+官网(https://material.io/)
 
 ## 国内互联网公司开源项目
 
